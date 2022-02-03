@@ -1,6 +1,6 @@
 # Mask-Detection-and-Social-Distancing 
 
-This was done for the India Academia Connect AI Hackathon conducted by **NVIDIA**. 
+This was done for the India Academia Connect AI Hackathon 2022 conducted by **NVIDIA**. 
 
 
 
